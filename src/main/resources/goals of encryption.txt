@@ -1,0 +1,7 @@
+The message I send you in only readable by you: Confidentiality (privacy)
+
+Not modified by bad actor: Integrity
+
+You are who you say you are: Authentication
+
+Prove a message came from you and believe you sent it: NonRepudiation
